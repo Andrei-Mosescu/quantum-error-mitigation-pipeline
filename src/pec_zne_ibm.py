@@ -14,7 +14,7 @@ from qiskit_ibm_runtime import QiskitRuntimeService, EstimatorV2, EstimatorOptio
 
 QiskitRuntimeService.save_account(
     channel="ibm_quantum_platform", 
-    token="iiTQ3nWGbm4BswoTaUOI8z06gmVfwcGxsYN9iTb9w38f",
+    token="",
     overwrite=True  
 )
 
